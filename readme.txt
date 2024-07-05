@@ -16,5 +16,5 @@
     <add key="ServidorSMTP" value="ironport" />
     
     <!--Conexiones a BD-->
-    <add key="CONPRUEBATW" value="User ID=;password=;Data Source=PRUEBA;Persist Security Info=True;Connection Lifetime=10;Enlist=false;Max Pool Size = 20;Min Pool Size=0;Pooling=true;" />    
-    <add key="CONPRUEBATWDDES" value="User ID=;password=;Data Source=PRUEBA;Persist Security Info=True;Connection Lifetime=10;Enlist=false;Max Pool Size = 20;Min Pool Size=0;Pooling=true;" />
+    <add key="CONPRUEBATW" value="User ID=;password=;Data Source=10.98.76.67;Persist Security Info=True;Connection Lifetime=10;Enlist=false;Max Pool Size = 20;Min Pool Size=0;Pooling=true;" />    
+    <add key="CONPRUEBATWDDES" value="User ID=;password=;Data Source=10.34.76.18;Persist Security Info=True;Connection Lifetime=10;Enlist=false;Max Pool Size = 20;Min Pool Size=0;Pooling=true;" />
